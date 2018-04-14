@@ -1,0 +1,10 @@
+/Users/billy/Projects/07_Homework/07_Homework/bin/Debug/07_Homework.exe
+/Users/billy/Projects/07_Homework/07_Homework/bin/Debug/07_Homework.pdb
+/Users/billy/Projects/07_Homework/07_Homework/obj/x86/Debug/07_Homework.csproj.CoreCompileInputs.cache
+/Users/billy/Projects/07_Homework/07_Homework/obj/x86/Debug/07_Homework.exe
+/Users/billy/Projects/07_Homework/07_Homework/obj/x86/Debug/07_Homework.pdb
+/Users/felicia/Downloads/07_Homework_Start/07_Homework/obj/x86/Debug/07_Homework.csproj.CoreCompileInputs.cache
+/Users/felicia/Downloads/07_Homework_Start/07_Homework/obj/x86/Debug/07_Homework.exe
+/Users/felicia/Downloads/07_Homework_Start/07_Homework/obj/x86/Debug/07_Homework.pdb
+/Users/felicia/Downloads/07_Homework_Start/07_Homework/bin/Debug/07_Homework.exe
+/Users/felicia/Downloads/07_Homework_Start/07_Homework/bin/Debug/07_Homework.pdb
